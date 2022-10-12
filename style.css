@@ -1,5 +1,5 @@
 .container{
-    background-color: #171717;
+    background-color: #020202;
     margin: 0;
     padding: 0;
 
@@ -16,9 +16,10 @@
 
 .links{
     font-size: 25px;
-    background-color: #171717;
+    background-color: #000000;
     color: #3BF1F4;
     text-align: center;
+    
 
    
 }
@@ -75,6 +76,7 @@ li {
     
 }
 * {
+  background-color: #000000;
     margin: 0;
     padding: 0;
     font-family: 'open_sanslight';
@@ -91,7 +93,7 @@ a:-webkit-any-link {
 .box-artigo {
     width: 100%;
     float: left;
-    background: #171717;
+    background: #000000;
     text-align: center;
     padding: 1em;
 }
